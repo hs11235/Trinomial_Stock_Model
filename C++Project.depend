@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1457545560 source:g:\c++project\main.cpp
+	"TriModel01.h"
+	"TriModel01.cpp"
+	"Proj01_Options.h"
+	<iostream>
+	<fstream>
+
+1456503308 g:\c++project\trimodel01.h
+
+1457430568 g:\c++project\trimodel01.cpp
+	"TriModel01.h"
+	<iostream>
+	<cmath>
+
+1457545248 g:\c++project\proj01_options.h
+	"TriModel01.h"
+	<vector>
+
+1456528728 g:\c++project\proj01_options.cpp
+	"Proj01_Options.h"
+	"TriModel01.h"
+	<iostream>
+	<cmath>
+
+1457539800 source:g:\c++project\proj01_options.cpp
+	"Proj01_Options.h"
+	"TriModel01.h"
+	<iostream>
+	<fstream>
+	<cmath>
+
+1459269928 source:e:\c++project\main.cpp
+	"TriModel01.h"
+	"Proj01_Options.h"
+	<iostream>
+	<fstream>
+
+1457618768 e:\c++project\trimodel01.h
+
+1457557386 e:\c++project\trimodel01.cpp
+	"TriModel01.h"
+	<iostream>
+	<cmath>
+
+1457545248 e:\c++project\proj01_options.h
+	"TriModel01.h"
+	<vector>
+
+1459262708 source:e:\c++project\proj01_options.cpp
+	"Proj01_Options.h"
+	"TriModel01.h"
+	<iostream>
+	<fstream>
+	<cmath>
+
+1459270016 source:m:\haydensummers_108022100\main.cpp
+	"TriModel01.h"
+	"TriModel01.cpp"
+	"Proj01_Options.h"
+	<iostream>
+	<fstream>
+
+1457618768 m:\haydensummers_108022100\trimodel01.h
+
+1459270008 m:\haydensummers_108022100\trimodel01.cpp
+	"TriModel01.h"
+	<iostream>
+	<cmath>
+
+1457545248 m:\haydensummers_108022100\proj01_options.h
+	"TriModel01.h"
+	<vector>
+
+1459262708 source:m:\haydensummers_108022100\proj01_options.cpp
+	"Proj01_Options.h"
+	"TriModel01.h"
+	<iostream>
+	<fstream>
+	<cmath>
+
